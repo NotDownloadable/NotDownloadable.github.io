@@ -1,0 +1,9 @@
+This is the place where we store our information to be accessed remotely.
+The goal is to chronicle our doings and treat it as a second brain.
+It might get big as we download lots of pages and make notes.
+One day we'll maintain our own server in-house and organize it with wiki-like techniques.
+
+
+
+
+
