@@ -1,8 +1,13 @@
+INVESTOPEDIA
+https://www.investopedia.com/terms/r/residentialrentalproperty.asp#:~:text=Residential%20real%20estate%20can%20be,%2C%20duplexes%2C%20and%20so%20on.
+
+
 SAN BERNARDINO COUNTY ASSESSOR
 https://arcpropertyinfo.sbcounty.gov/
 http://www.sbcounty.gov/assessor/pims/PIMSINTERFACE.ASPX
 
 SHIPPING CONTAINER HOUSE
+"Are Shippingi Container Houses Illegal In California?"
 https://www.falconstructures.com/shipping-container-dimensions
 https://forestshipping.com/common-container-size-container-types
 https://www.container-xchange.com/blog/shipping-container-sizes/
@@ -10,6 +15,8 @@ https://www.metal-building-homes.com/shipping-container-homes-cost/
 https://westerncontainersales.com/shipping-container-prices/los-angeles/
 https://westerncontainersales.com/sample-pics/
 https://realestate.usnews.com/real-estate/articles/do-shipping-container-homes-have-staying-power
+https://www.24hplans.com/top-20-shipping-container-home-designs-and-their-costs/
+https://containerhomehub.com/building-a-shipping-container-home-in-california/
 
 LIVING SPACE
 https://www.engineeringtoolbox.com/number-persons-buildings-d_118.html
@@ -23,3 +30,6 @@ https://www.law.cornell.edu/cfr/text/12/141.25
 VICTROVILLE DEMOGRAPHICS
 https://data.census.gov/table?q=victroville&tid=ACSST1Y2021.S0101&tp=false
 https://data.census.gov/table?q=victroville&tid=DECENNIALPL2020.P1
+
+VICTORVILLE HOUSING LAWS
+https://www.victorvilleca.gov/government/city-departments/development/planning/housing-element-update/housing-element-resources
