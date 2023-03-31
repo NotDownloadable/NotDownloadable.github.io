@@ -19,3 +19,7 @@ https://en.wikipedia.org/wiki/Meow_Wolf#Omega_Mart
 
 SINGLE FAMILY RESIDENCE
 https://www.law.cornell.edu/cfr/text/12/141.25
+
+VICTROVILLE DEMOGRAPHICS
+https://data.census.gov/table?q=victroville&tid=ACSST1Y2021.S0101&tp=false
+https://data.census.gov/table?q=victroville&tid=DECENNIALPL2020.P1
